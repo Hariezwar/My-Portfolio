@@ -1,9 +1,7 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0ea5e9&height=200&section=header&text=Portfolio&fontSize=80&fontAlignY=35&animation=twinkling" />
-
----
-
-  ## 🚀 High-End Developer Portfolio
+  
+  # 🚀 High-End Developer Portfolio
   
   **An ultra-modern, high-performance portfolio built with cutting-edge web technologies, designed to showcase projects with a premium Silicon Valley aesthetic.**
   
@@ -13,8 +11,6 @@
 </div>
 
 <br />
-
----
 
 ## ✨ Features
 
@@ -27,8 +23,6 @@
 - **Rate-Limit-Proof GitHub Integration**: Repositories are cleanly hardcoded to guarantee zero-latency loading and zero API blockages.
 
 <br />
-
----
 
 ## 🛠️ Tech Stack
 
@@ -45,9 +39,50 @@
 
 <br />
 
----
+## 🚀 Getting Started
 
+To run this portfolio locally on your machine, follow these simple steps:
+
+1. **Clone the repository:**
+   ```bash
+   git clone https://github.com/Hariezwar/My-Portfolio.git
+   ```
+
+2. **Navigate to the directory:**
+   ```bash
+   cd My-Portfolio
+   ```
+
+3. **Run a local server:**
+   You can use any local server, such as the VS Code Live Server extension, Python's built-in HTTP server, or Node's `http-server`:
+   ```bash
+   npx http-server -p 8080
+   ```
+
+4. **View in your browser:**
+   Open `http://localhost:8080` in your browser to experience the site.
+
+<br />
+
+## 🎨 Design Philosophy
+
+This portfolio departs from standard generic templates to embrace a **Data Lake / Cyber** aesthetic perfectly tailored for hackathons and software engineering roles. 
+- The deep oceanic blue hues (`#061121`, `#0ea5e9`, `#38bdf8`) exude professionalism and technical trust.
+- The use of glass cards layered over a 3D environment creates extreme depth without sacrificing accessibility or reading clarity.
+
+<br />
 
 ## 👨‍💻 Author
 
 Hariezwar U
+
+<br />
+
+## 📝 License
+
+This project is open-source and available under the [MIT License](LICENSE). Feel free to fork it, learn from it, and adapt it for your own use!
+
+---
+<div align="center">
+  <i>Built with ❤️ by Hariezwar</i>
+</div>
