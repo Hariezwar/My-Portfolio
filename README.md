@@ -1,7 +1,9 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0ea5e9&height=200&section=header&text=Portfolio&fontSize=80&fontAlignY=35&animation=twinkling" />
-  
-  # 🚀 High-End Developer Portfolio
+
+---
+
+  ## 🚀 High-End Developer Portfolio
   
   **An ultra-modern, high-performance portfolio built with cutting-edge web technologies, designed to showcase projects with a premium Silicon Valley aesthetic.**
   
@@ -11,6 +13,8 @@
 </div>
 
 <br />
+
+---
 
 ## ✨ Features
 
@@ -23,6 +27,8 @@
 - **Rate-Limit-Proof GitHub Integration**: Repositories are cleanly hardcoded to guarantee zero-latency loading and zero API blockages.
 
 <br />
+
+---
 
 ## 🛠️ Tech Stack
 
@@ -39,10 +45,3 @@
 
 <br />
 
-## 🚀 Getting Started
-
-To run this portfolio locally on your machine, follow these simple steps:
-
-1. **Clone the repository:**
-   ```bash
-   git clone https://github.com/Hariezwar/My-Portfolio.git
