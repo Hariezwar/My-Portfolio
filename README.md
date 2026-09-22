@@ -1,7 +1,7 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0ea5e9&height=200&section=header&text=Portfolio&fontSize=80&fontAlignY=35&animation=twinkling" />
 
----
+
 
   # 🚀 High-End Developer Portfolio
   
