@@ -1,6 +1,8 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0ea5e9&height=200&section=header&text=Portfolio&fontSize=80&fontAlignY=35&animation=twinkling" />
-  
+
+---
+
   # 🚀 High-End Developer Portfolio
   
   **An ultra-modern, high-performance portfolio built with cutting-edge web technologies, designed to showcase projects with a premium Silicon Valley aesthetic.**
@@ -48,7 +50,3 @@
 ## 👨‍💻 Author
 
 Hariezwar U
-
-<div align="center">
-  <i>Built with ❤️ by Hariezwar</i>
-</div>
